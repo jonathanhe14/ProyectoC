@@ -17,7 +17,7 @@ function UserCart({user}) {
       {user.first_name} {user.last_name}
     </h2>
     <button className="px-4 py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600 transition-colors">
-      Ver Perfil
+      Perfil
     </button>
   </div>
   )
